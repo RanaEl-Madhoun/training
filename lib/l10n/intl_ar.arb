@@ -1,0 +1,28 @@
+{
+    
+        
+        "signIn":"تسجيل دخول",
+        "register":"انشاء حساب",
+        "signou":"تسجيل خروج",
+        "forgetpassword":"هل نسيت كلمة المرور؟",
+        "donthaveaccount":"لا يوجد لديك حساب؟",
+        "alreadyhaveaccount":"لديك حساب مسبق؟",
+        "email":"البريد الالكتروني",
+        "password":"كلمة المرور",
+        "username":"اسم المستخدم",
+        "phonenumber":"رقم الهاتف",
+        "empid":"الرقم الوظيفي",
+        "parentid":"الرقم المعرف للوحدة الادارية التي يعمل بها",
+        "confirmpassword":"تأكيد كلمة المرور",
+        "workplace":"منطقة العمل",
+        "reporttitle":"عنوان المشكلة",
+        "reportdesc":"تفاصيل المشكلة",
+        "submit":"ارسال",
+        "technicalSupport":"دعم فني",
+        "hello":"مرحبا"
+
+
+
+    
+    
+}

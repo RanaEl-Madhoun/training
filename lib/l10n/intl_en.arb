@@ -1,0 +1,23 @@
+{
+    "signIn":"Sign in",
+    "register":"Register",
+    "signou":"Sign out",
+    "donthaveaccount":"Don't have an account?",
+    "alreadyhaveaccount":"Already have an account?",
+    "forgetpassword":"Forget password",
+    "email":"Email",
+    "password":"Password",
+    "username":"User name",
+    "phonenumber":" Phone number",
+    "empid":"Employee ID",
+    "parentid":"Parent ID",
+    "confirmpassword":"Confirm ID",
+    "workplace":"Work Region",
+    "reporttitle":"Report Title",
+    "reportdesc":"Report description",
+    "submit":"Submit",
+    
+    "technicalSupport":"Technical Support",
+    "hello":"Hello"
+
+}

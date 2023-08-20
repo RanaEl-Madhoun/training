@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214817935459",
+    "project_id": "technicalsupport-70b7d",
+    "storage_bucket": "technicalsupport-70b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214817935459:android:05483893316174095e2856",
+        "android_client_info": {
+          "package_name": "com.example.uni_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214817935459-b6t909dgko4sjasi5aq1t771b1o8vqsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3KLTeyBVLW3N_GHinpt44OaMFdQ2Igc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214817935459-b6t909dgko4sjasi5aq1t771b1o8vqsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
